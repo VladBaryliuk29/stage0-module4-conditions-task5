@@ -9,6 +9,8 @@ public class LeapYearPrinter {
                 } else {
                     System.out.println("not leap");
                 }
+            } else {
+                System.out.println("leap");
             }
         } else {
             System.out.println("not leap");
